@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cache
+*.log
+*.ckpt
+*.h5
+*.pth
+*.pt
+.gitattributes
+*.egg-info/
+*.egg
+*.onnx
+gpt2-finetuned/
