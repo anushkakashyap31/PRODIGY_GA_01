@@ -27,25 +27,29 @@ The goal is to generate more personalized and meaningful text outputs based on s
 
 ## 💬 How to Run
 
-1️. Clone the repository:
+1️⃣ Clone the repository:  
+    ```bash
     git clone https://github.com/anushkakashyap31/PRODIGY_GA_01.git
     cd PRODIGY_GA_01
-2️. Install dependencies (inside virtual environment):
+2️⃣ Install dependencies (inside virtual environment):
     pip install -r requirements.txt
-3️. Run fine-tuning:
+3️⃣ Run fine-tuning:
     python finetune_gpt2.py
-4️. Generate text:
+4️⃣ Generate text:
     python generate_text.py
 
 🎯 Objectives
+
 - Learn the process of fine-tuning large language models.
 - Understand text generation using custom-trained models.
 - Improve practical skills with Hugging Face Transformers and PyTorch.
 
 👩‍💻 Author
+
 Anushka Kashyap
 
 ⭐ Acknowledgements
+
 Prodigy Infotech internship guidance
 Hugging Face Transformers library
 
